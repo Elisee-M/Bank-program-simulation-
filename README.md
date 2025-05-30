@@ -32,6 +32,7 @@ You type in `*300#` like a boss 😎 and BOOM 💥 — a whole micro-banking uni
 
 
 g++ bank.cpp -o bank
+
 ./bank
 
 Then...
