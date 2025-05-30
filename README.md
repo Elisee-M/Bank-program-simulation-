@@ -34,13 +34,9 @@ You type in `*300#` like a boss 😎 and BOOM 💥 — a whole micro-banking uni
 g++ bank.cpp -o bank
 ./bank
 
-
 Then...
-
-text
-Copy
-Edit
 Enter USSD: *300#
+
 If you don't type *300#...
 💀 The program roasts you with “Incorrect USSD!” and vanishes like a ninja 🥷
 
@@ -53,9 +49,7 @@ If you don't type *300#...
 🔥 Infinite loop of madness (until you Ctrl+C 🧨)
 
 🧞‍♂️ Sample Flow (Prepare to be amazed)
-text
-Copy
-Edit
+
 Enter USSD: *300#
 1. Add user
 2. Login
@@ -76,6 +70,7 @@ Choice: 2
 Enter deposit amount: 9999
 Deposit successful!
 New balance: 9999 💸💸💸
+
 🧪 Bugs & Limitations (a.k.a. The Drama)
 ❌ Only one user at a time — no bank party yet 🎉
 ❌ Data is not saved — your bank resets every run 😭
@@ -105,10 +100,7 @@ Just give credit and share the madness 💥
 
 🐱‍🏍 Stay tuned. More craziness is coming.
 
-vbnet
-Copy
-Edit
-
 Go ahead and slap that into your `README.md` file. If your project had a soundtrack, it’d be 🔊 EDM with ATM beeps.
 
 Want a colorized terminal version next? 😎
+
