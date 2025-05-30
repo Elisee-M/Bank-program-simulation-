@@ -69,13 +69,13 @@ Enter USSD: *300#
 1. Add user  
 2. Login  
 Choice: 1  
-Enter the name: Elon  
+Enter the name: Elisee  
 Enter PIN for new user: 1234  
 User successfully added!!
 
 Enter USSD: *300#  
 Choice: 2  
-Enter username: Elon  
+Enter username: Elisee  
 Enter PIN: 1234  
 Welcome!!
 
@@ -122,4 +122,3 @@ Just give credit and share the madness 💥
 🐱‍🏍 Stay tuned. More craziness is coming.
 
 
-✅ Paste this into your `README.md` — perfectly spaced and ready for GitHub fame! Let me know if you want color terminal output or multi-user next 😎.
