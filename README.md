@@ -138,10 +138,15 @@ Enter loan duration (in months): 12
 Loan Summary:
 -------------------------
 Loan Amount:      Frw 1000000.00
+
 Interest Rate:    12.00% per year
+
 Loan Duration:    12 months
+
 Monthly Payment:  Frw 106000.00
+
 Total Payment:    Frw 1272000.00
+
 Total Interest:   Frw 272000.00
 
 
