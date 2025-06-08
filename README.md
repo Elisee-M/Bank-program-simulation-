@@ -106,6 +106,47 @@ New balance: 9999 💸💸💸
 
 🎮 Easter eggs? Hack mode? Let’s go bananas 🍌
 
+
+
+
+
+
+
+# 💸 Loan Calculator 💸
+
+A simple C++ program that calculates loan payments using simple interest.  
+Implemented using a class for clear structure and reusability. 🎯
+
+## ✨ Features
+
+- 💰 Input loan amount (principal), annual interest rate (%), and loan duration (months)  
+- 🧮 Calculates total interest, total payment, and monthly payment  
+- 📋 Displays a detailed loan summary  
+
+## 🚀 How To Compile & Run
+
+```bash```
+g++ loan_calculator.cpp -o loan_calculator
+./loan_calculator
+
+
+
+Enter loan amount (Frw): 1000000
+Enter annual interest rate (%): 12
+Enter loan duration (in months): 12
+
+Loan Summary:
+-------------------------
+Loan Amount:      Frw 1000000.00
+Interest Rate:    12.00% per year
+Loan Duration:    12 months
+Monthly Payment:  Frw 106000.00
+Total Payment:    Frw 1272000.00
+Total Interest:   Frw 272000.00
+
+
+
+
 👑 Built By
 🧑‍💻 Elisee MUGIRANEZA
 
