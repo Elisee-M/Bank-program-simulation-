@@ -159,8 +159,7 @@ Total Interest:   Frw 272000.00
 
 🌍 GitHub: Elisee-M
 
-📜 License
-MIT License 🔓 — Use it, break it, improve it, remix it.
+
 Just give credit and share the madness 💥
 
 ⭐ Smash that star button like it owes you money 💣
